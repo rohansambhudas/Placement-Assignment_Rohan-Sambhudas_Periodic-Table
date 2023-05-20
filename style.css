@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading {
+    font-size: 70px;
+    color: #000000;
+}
+
+td {
+    text-align: center;
+    width: 5vw;
+    border: 1px solid #000000;
+    color: #000000;
+    size: 12px;
+    font-weight: 700;
+}
+
+.none {
+    border: none;
+}
+
+.color1 {
+    background-color: #ff9999;
+}
+
+.color2 {
+    background-color: #99ccff;
+}
+
+.color3 {
+    background-color: #fdff8c;
+}
+
+.color4 {
+    background-color: #9bff99;
+}
